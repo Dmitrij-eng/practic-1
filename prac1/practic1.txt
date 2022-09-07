@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main (void)
+{
+printf("Желев Дмитрий Александрович ВИ 921Б");
+return 0;
+}
